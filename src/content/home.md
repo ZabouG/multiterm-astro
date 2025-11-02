@@ -5,4 +5,7 @@ avatarImage:
 githubCalendar: 'stelcodes'
 ---
 
-Welcome to the example site. This site is meant to show off my custom Astro theme/template **MultiTerm** which creates a coder-ready blog complete with an interactive theme changer, RSS, sitemap, tagging, and markdown extensions.
+Salut, moi c’est Adrian Guichard, alias Zabou.
+Développeur full-stack et explorateur créatif.
+Ce site n’est pas qu’un CV : c’est une expérience.
+Entre lignes de code et coups de pinceau, je construis des projets qui me ressemblent.
